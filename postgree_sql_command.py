@@ -22,3 +22,7 @@
 
 8 : কোনো ফাইলের ভিতরের content (লেখা) terminal এ দেখার জন্য।
 => cat /opt/odoo19/odoo.conf
+
+# : How to delete database ?
+=> DROP DATABASE database_name;
+
