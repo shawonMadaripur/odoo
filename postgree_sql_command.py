@@ -19,3 +19,6 @@
 
 7 : If i want to run specific database ?
 => ./odoo-bin -c odoo.conf -d database_name
+
+8 : কোনো ফাইলের ভিতরের content (লেখা) terminal এ দেখার জন্য।
+=> cat /opt/odoo19/odoo.conf
