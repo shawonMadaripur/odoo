@@ -25,4 +25,5 @@
 
 # : How to delete database ?
 => DROP DATABASE database_name;
-
+# : To connect another user of database
+=> \c username
