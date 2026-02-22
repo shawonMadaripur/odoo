@@ -30,3 +30,14 @@ Create Personal Access Token
 
 2 : Check git configuration ?
 => git config --list
+
+
+3 : how to create new file ?
+=> touch /opt/odoo19/custom/college_erp/__init__.py
+
+4 : To open the file ?
+=> cat /opt/odoo19/custom/college_erp/__manifest__.py
+
+5 : How to see all Folder ?
+=> ls -l /opt/odoo19/custom/college_erp
+
