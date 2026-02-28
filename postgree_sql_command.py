@@ -27,3 +27,13 @@
 => DROP DATABASE database_name;
 # : To connect another user of database
 => \c username
+
+#: How to check database table?
+=> \dt
+
+#: ./odoo-bin -u your_module_name -d test----------> এটি Odoo 19-এ ব্যবহার করা হয় কোনো নির্দিষ্ট মডিউল আপডেট বা রিফ্রেশ করার জন্য।
+
+#: If i want to select database
+=> http://localhost:8069/web/database/selector
+
+
